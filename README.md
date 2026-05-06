@@ -1,7 +1,7 @@
 # Langchain
 
-Setup with LangChain, LangSmith and LangServe
-Use of prompt template, models and output parsers
-Building simple application with Langchain
-Trace application with LangSmith
-Serve application with LangServe
+1. Setup with LangChain, LangSmith and LangServe
+2. Use of prompt template, models and output parsers
+3. Building simple application with Langchain
+4. Trace application with LangSmith
+5. Serve application with LangServe
